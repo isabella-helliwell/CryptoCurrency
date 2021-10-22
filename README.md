@@ -38,39 +38,39 @@ Input data: `crypto_data.csv`
 
 ## 4. Results
 
-Dataframe with cleaned data:
+<ins>Dataframe with cleaned data:</ins>
 
 ![image](https://user-images.githubusercontent.com/85843030/138482260-e5d5b935-8237-4162-85bf-cd60c882736b.png)
 
 
 
-DatFrame showing the 3 principal components PC1,PC2,PC3:
+<ins>DatFrame showing the 3 principal components PC1,PC2,PC3:</ins>
 
 ![image](https://user-images.githubusercontent.com/85843030/138498974-9af9ceb2-436d-4e06-a406-a327042662ca.png)
 
 
 
-New DataFrame inclusing predicted clusters and cryptocurrency features
+<ins>New DataFrame inclusing predicted clusters and cryptocurrency features:</ins>
 
 ![image](https://user-images.githubusercontent.com/85843030/138486490-b334e48e-b72f-48f0-a546-eec8ee55307b.png)
 
 
 
-Showing the Elbow Curve Plot:
+<ins>Showing the Elbow Curve Plot:</ins>
 ![bokeh_plot](https://user-images.githubusercontent.com/85843030/138488907-480ded4e-a5f3-4b0f-b149-0673969614d7.png)
 
 
 
-Visualizing Cryptocurrencies result:
+<ins>Visualizing Cryptocurrencies result:</ins>
 ![newplot (1)](https://user-images.githubusercontent.com/85843030/138488247-bac75980-f00f-4300-9774-f242ecb6c862.png)
 
 
-Interactive hvplot table
+<ins>Interactive hvplot table</ins>
 
 ![image](https://user-images.githubusercontent.com/85843030/138497806-56c60406-1d55-4bc6-86c0-8a7985e5a4fc.png)
 
 
-Scatter plot:
+<ins>Scatter plot:</ins>
 ![bokeh_plot (1)](https://user-images.githubusercontent.com/85843030/138498449-abe720d5-ee29-497e-b686-dbc2884da572.png)
 
 
