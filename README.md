@@ -39,11 +39,19 @@ Input data: `crypto_data.csv`
 ## 4. Results
 
 Dataframe with cleaned data:
+
 ![image](https://user-images.githubusercontent.com/85843030/138482260-e5d5b935-8237-4162-85bf-cd60c882736b.png)
 
 
 New DataFrame inclusing predicted clusters and cryptocurrency features
+
 ![image](https://user-images.githubusercontent.com/85843030/138486490-b334e48e-b72f-48f0-a546-eec8ee55307b.png)
+
+
+
+Showing the Elbow Curve Plot:
+![bokeh_plot](https://user-images.githubusercontent.com/85843030/138488907-480ded4e-a5f3-4b0f-b149-0673969614d7.png)
+
 
 
 Visualizing Cryptocurrencies result:
