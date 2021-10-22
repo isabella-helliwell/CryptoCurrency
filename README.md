@@ -71,6 +71,7 @@ To use unsupervised machine learning on a set of data, and to figure out if ther
 
 
 <ins>Interactive hvplot table</ins>
+For complete table https://isabella-helliwell.github.io/CryptoCurrency/cryptocurrencytable.html
 
 ![image](https://user-images.githubusercontent.com/85843030/138497806-56c60406-1d55-4bc6-86c0-8a7985e5a4fc.png)
 
@@ -90,4 +91,4 @@ to the big drop in columns in our analysis.
 This also means that the model has not been successful in recognising enough patterns and trends between the features to be able to tell us any 
 grouping, trends or other useful information.
 
-http://htmlpreview.github.io/?https://github.com/isabella-helliwell/CryptoCurrency/blob/main/cryptocurrencytable.html
+
