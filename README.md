@@ -61,3 +61,10 @@ Visualizing Cryptocurrencies result:
 Interactive hvplot table
 
 ![image](https://user-images.githubusercontent.com/85843030/138497806-56c60406-1d55-4bc6-86c0-8a7985e5a4fc.png)
+
+
+Scatter plot:
+![bokeh_plot (1)](https://user-images.githubusercontent.com/85843030/138498449-abe720d5-ee29-497e-b686-dbc2884da572.png)
+
+
+
