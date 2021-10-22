@@ -87,4 +87,6 @@ Once, the principal component analysis was carried out, we ended up with 3 colum
 Looking at the explained variance ratio, we get : `array([0.02793147, 0.02136862, 0.02046864])`. This means that PC 1 contains 2.79% of the variance, 
 PC 2 contains 2.14% of the variance and PC 3 contains 2.05% of the variance. In total we have used 6.98% of the total dataset, which is an indication
 to the big drop in columns in our analysis.
+This also means that the model has not been successful in recognising enough patterns and trends between the features to be able to tell us any 
+grouping, trends or other useful information.
 
