@@ -3,9 +3,9 @@
 To use unsupervised machine learning on a set of data, and to figure out if there is anything the data can tell us, i.e trends or other information
 
 ## 2. Resources
-Jupyter notebook, version 6.3.0
-Python version 3.7.10
-Input data: `crypto_data.csv`
+- Jupyter notebook, version 6.3.0
+- Python version 3.7.10
+- Input data: `crypto_data.csv`
 
 ## 3. Coding Summary & Analysis
 1. Read in the dataset and convert to a DataFrame
