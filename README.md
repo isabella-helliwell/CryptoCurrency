@@ -22,3 +22,7 @@ Input data: `crypto_data.csv`
 <ins>Deliverable 3: Clustering Cryptocurrencies Using K-Means</ins>
 
 8. Create an elbow curve to find the best value for *k*
+9. Plot the Elbow Curve using `hvplot`
+10. Initialize the k-mean model `Kmeans` and `n_cluster=4`
+11. Fit the model `model.fit`
+12. Predict the clusters `model.predict`
