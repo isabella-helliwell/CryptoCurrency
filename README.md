@@ -43,6 +43,10 @@ Dataframe with cleaned data:
 ![image](https://user-images.githubusercontent.com/85843030/138482260-e5d5b935-8237-4162-85bf-cd60c882736b.png)
 
 
+DatFrame showing the 3 principal components PC1,PC2,PC3:
+![image](https://user-images.githubusercontent.com/85843030/138498974-9af9ceb2-436d-4e06-a406-a327042662ca.png)
+
+
 New DataFrame inclusing predicted clusters and cryptocurrency features
 
 ![image](https://user-images.githubusercontent.com/85843030/138486490-b334e48e-b72f-48f0-a546-eec8ee55307b.png)
