@@ -58,5 +58,6 @@ Visualizing Cryptocurrencies result:
 ![newplot (1)](https://user-images.githubusercontent.com/85843030/138488247-bac75980-f00f-4300-9774-f242ecb6c862.png)
 
 
+Interactive hvplot table
 
-
+![image](https://user-images.githubusercontent.com/85843030/138497806-56c60406-1d55-4bc6-86c0-8a7985e5a4fc.png)
