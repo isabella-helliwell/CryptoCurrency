@@ -1,4 +1,6 @@
 # CryptoCurrency
+<img>![image](https://user-images.githubusercontent.com/85843030/138507262-cce028fe-bf68-44a9-bb9f-273c65b551f2.png)
+
 ## 1. Project overview
 To use unsupervised machine learning on a set of data, and to figure out if there is anything the data can tell us, i.e trends or other information
 
