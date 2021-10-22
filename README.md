@@ -7,7 +7,7 @@ Jupyter notebook, version 6.3.0
 Python version 3.7.10
 Input data: `crypto_data.csv`
 
-## 3. Coding Summary
+## 3. Coding Summary & Analysis
 1. Read in the dataset and convert to a DataFrame
 2. Filter/Remove some of the columns based on criterias given
 3. Convert any text features in the columns by using `.get_dummies` method
@@ -35,5 +35,20 @@ Input data: `crypto_data.csv`
 16. Use the `MinMaxScaler().fit_transform` method to scale the columns 'TotalCoinSupply' & 'TotalCoinsMined'
 17.  Create a new DataFrame, containing 'TotalCoinSupply', 'TotalCoinsMined', 'CoinName', & 'Class' Columns
 18.  Create an `hvplot` scatter plot `.hvplot.scatter` with hover information `hover_cols=['CoinName']`
+
+## 4. Results
+
+Dataframe with cleaned data:
+![image](https://user-images.githubusercontent.com/85843030/138482260-e5d5b935-8237-4162-85bf-cd60c882736b.png)
+
+
+New DataFrame inclusing predicted clusters and cryptocurrency features
+![image](https://user-images.githubusercontent.com/85843030/138486490-b334e48e-b72f-48f0-a546-eec8ee55307b.png)
+
+
+Visualizing Cryptocurrencies result:
+![newplot (1)](https://user-images.githubusercontent.com/85843030/138488247-bac75980-f00f-4300-9774-f242ecb6c862.png)
+
+
 
 
