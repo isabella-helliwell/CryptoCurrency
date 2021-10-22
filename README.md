@@ -32,7 +32,7 @@ Input data: `crypto_data.csv`
 
 14. Creating a 3D-Scatter with the PCA data and the clusters `px.scatter_3d`
 15. Create a table with all the currently tradable cryptocurrencies using `hvplot.table()`
-16. Use the MinMaxScaler().fit_transform` method to scale the columns 'TotalCoinSupply' & 'TotalCoinsMined'
+16. Use the `MinMaxScaler().fit_transform` method to scale the columns 'TotalCoinSupply' & 'TotalCoinsMined'
 17.  Create a new DataFrame, containing 'TotalCoinSupply', 'TotalCoinsMined', 'CoinName', & 'Class' Columns
 18.  Create an `hvplot` scatter plot `.hvplot.scatter` with hover information `hover_cols=['CoinName']`
 
