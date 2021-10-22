@@ -81,4 +81,10 @@ Input data: `crypto_data.csv`
 ![bokeh_plot (1)](https://user-images.githubusercontent.com/85843030/138498449-abe720d5-ee29-497e-b686-dbc2884da572.png)
 
 
+## Conclusion
+Looking at the plots, we started of with 6 columns of data. After creating variables for the text features, the columns expanded to 98.
+Once, the principal component analysis was carried out, we ended up with 3 columns.
+Looking at the explained variance ratio, we get : `array([0.02793147, 0.02136862, 0.02046864])`. This means that PC 1 contains 2.79% of the variance, 
+PC 2 contains 2.14% of the variance and PC 3 contains 2.05% of the variance. In total we have used 6.98% of the total dataset, which is an indication
+to the big drop in columns in our analysis.
 
