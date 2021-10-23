@@ -67,7 +67,7 @@ To use unsupervised machine learning on a set of data, and to figure out if ther
 
 
 
-<ins>Visualizing Cryptocurrencies result:</ins>
+<ins>Visualizing Cryptocurrencies result: 4 classes</ins>
 ![newplot (1)](https://user-images.githubusercontent.com/85843030/138488247-bac75980-f00f-4300-9774-f242ecb6c862.png)
 
 
