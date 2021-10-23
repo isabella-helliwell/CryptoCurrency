@@ -61,7 +61,7 @@ To use unsupervised machine learning on a set of data, and to figure out if ther
 
 
 
-<ins>Showing the Elbow Curve Plot:</ins>
+<ins>Showing the Elbow Curve Plot k=4:</ins>
 ![bokeh_plot](https://user-images.githubusercontent.com/85843030/138488907-480ded4e-a5f3-4b0f-b149-0673969614d7.png)
 
 
